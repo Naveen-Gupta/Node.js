@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "creating app using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveen-Gupta/Node.js.git"
+  },
+  "author": "naveengupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naveen-Gupta/Node.js/issues"
+  },
+  "homepage": "https://github.com/Naveen-Gupta/Node.js#readme"
+}
